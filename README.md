@@ -42,7 +42,7 @@
 <br>
 <p align="center"><b>Contagem de Visitantes</b></p> 
   
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMacedx&s=40&c=4602ac&bg=00000000&no=4&ff=digi&tb=Visitas%3A&ta=" alt="visits"></p> 
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMacedx&s=40&c=8400db&bg=00000000&no=7&ff=digi&tb=Visitas%3A&ta=" alt="visits"></p> 
 <br>
 </div>
 
